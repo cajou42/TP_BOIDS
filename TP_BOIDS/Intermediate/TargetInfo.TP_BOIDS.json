@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TP_BOIDS",
+			"Path": "..\\Source\\TP_BOIDS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TP_BOIDSEditor",
+			"Path": "..\\Source\\TP_BOIDSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

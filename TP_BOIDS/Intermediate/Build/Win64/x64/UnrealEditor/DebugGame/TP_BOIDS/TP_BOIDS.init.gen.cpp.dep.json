@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\unrealeditor\\inc\\tp_boids\\uht\\tp_boids.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\x64\\tp_boidseditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\tp_boids\\definitions.tp_boids.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TP_BOIDS-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\TP_BOIDSEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\BoidsManager.gen.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\SingleBoid.gen.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\TP_BOIDS.init.gen.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\BoidsManager.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\SingleBoid.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\TP_BOIDS.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\Default.rc2.res"
+/OUT:"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TP_BOIDS\UnrealEditor-TP_BOIDS-Win64-DebugGame.lib"

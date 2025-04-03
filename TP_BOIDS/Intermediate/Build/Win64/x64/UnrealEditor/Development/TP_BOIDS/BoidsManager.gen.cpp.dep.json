@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\unrealeditor\\inc\\tp_boids\\uht\\boidsmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\x64\\tp_boidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tp_boids\\definitions.tp_boids.h",
+            "e:\\tp_boids\\tp_boids\\source\\tp_boids\\boidsmanager.h",
+            "e:\\tp_boids\\tp_boids\\source\\tp_boids\\singleboid.h",
+            "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\unrealeditor\\inc\\tp_boids\\uht\\singleboid.generated.h",
+            "e:\\tp_boids\\tp_boids\\intermediate\\build\\win64\\unrealeditor\\inc\\tp_boids\\uht\\boidsmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TP_BOIDS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\TP_BOIDSEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\Development\TP_BOIDS\TP_BOIDS.cpp.obj"
+"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\Development\TP_BOIDS\Default.rc2.res"
+/OUT:"E:\TP_BOIDS\TP_BOIDS\Intermediate\Build\Win64\x64\UnrealEditor\Development\TP_BOIDS\UnrealEditor-TP_BOIDS.lib"
